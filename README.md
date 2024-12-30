@@ -1,3 +1,3 @@
 # Portfolio
 
-visit - https://tharushikadyayinna.netlify.app/
+visit - https://tharushikayayinna.netlify.app/
